@@ -1,34 +1,46 @@
-# ⚡ SYSTEM_ANALYZER --BOOT
+# ⚡ SYSTEM_ANALYZER --BOOT_SEQUENCE
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ROOT@AMAN-AGRAHARI:~$+SYSTEM_ANALYZER;LOADING_DEVELOPER_PROFILE...;WEB_DEVELOPER;SOFTWARE_ENGINEER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST" />
 </p>
 
 ---
 
-### 📂 directory: /home/aman_agrahari/profile
-
-```javascript
-system_analyzer --execute
-
+```bash
+> system_analyzer --whoami
 const developer = {
-    name: "Aman Agrahari",
-    role: "Web & Software Developer",
-    status: "BCA Graduate",
-    location: "India 🇮🇳",
+  name: "Aman Agrahari",
+  role: "Web & Software Developer",
+  education: "BCA Graduate",
+  location: "India 🇮🇳",
 
-    specialization: [
-        "Web Applications",
-        "Software Architecture"
-    ],
+  specialization: [
+    "Web Applications",
+    "Software Architecture",
+    "Cloud & AI Systems"
+  ],
 
-    tech_stack: [
-        "JavaScript",
-        "React.js",
-        "Node.js",
-        "Python",
-        "SQL"
-    ],
+  tech_stack: [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Python",
+    "SQL"
+  ],
 
-    motto: "Building scalable systems and exploring the AI frontier."
+  motto: "Building scalable systems and exploring the AI frontier."
 };
+> system_analyzer --connect
+<p align="left"> <a href="https://www.linkedin.com/in/a-man-ag/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/_agr_aman_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:amanagrahariagrahari982@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+> load_module --tech_stack
+<p> <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,html,css,tailwind,bootstrap,mongodb,mysql,django,git,docker,github,gcp,figma"/> </p>
+> fetch_stats --github
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-man-agr&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-man-agr&layout=compact&theme=tokyonight"/> </p>
+> run_process --contribution_snake
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+> system_status
+STATUS: ONLINE
+SYSTEM: ACTIVE
+LEARNING_MODE: ENABLED
+MISSION: BUILD • LEARN • INNOVATE
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/> </p> ```
