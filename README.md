@@ -70,17 +70,18 @@ const developer = {
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=A-man-agr&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-man-agr&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
 </p>
+
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://streak-stats.demolab.com?user=A-man-agr&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-man-agr&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true"/>
 </p>
+
+---
 
 ---
 
