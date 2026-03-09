@@ -71,7 +71,7 @@ const developer = {
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-man-agr&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=A-man-agr&theme=tokyonight" height="180"/>
 </p>
 
 ---
