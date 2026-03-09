@@ -1,7 +1,7 @@
 # ⚡ SYSTEM_ANALYZER --BOOT_SEQUENCE
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0d1117&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST"/>
 </p>
 
 ---
@@ -84,14 +84,6 @@ const developer = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-man-agr&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-man-agr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
 </p>
 
 ---
