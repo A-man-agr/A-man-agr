@@ -63,20 +63,35 @@ const developer = {
 
 ---
 
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+Dashboard;🚀+Coding+Activity+Tracker;💻+Open+Source+Developer" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-man-agr&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-man-agr&layout=compact&theme=tokyonight"/>
+---
 
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
 </p>
 
 ---
