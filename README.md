@@ -5,8 +5,7 @@
 </p>
 
 ---
-
-### 📂 directory: /home/aman_agrahari/about_me
+# 📂 directory: /home/aman_agrahari/about_me
 
 ```javascript
 const developer = {
