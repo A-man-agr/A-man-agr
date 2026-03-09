@@ -74,11 +74,8 @@ const developer = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="170"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="100%"/>
-</p>
 
----
+  ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A-man-agr&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
