@@ -65,7 +65,7 @@ const developer = {
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=023E8A&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+Dashboard;🚀+Coding+Activity+Tracker;💻+Open+Source+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=023E8A&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+Dashboard;+Coding+Activity+Tracker;💻+Open+Source+Developer" />
 </p>
 
 ---
