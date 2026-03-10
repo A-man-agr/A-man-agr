@@ -1,7 +1,7 @@
 # ⚡ SYSTEM_ANALYZER --BOOT_SEQUENCE
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=03045E&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=023E8A&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ const developer = {
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+Dashboard;🚀+Coding+Activity+Tracker;💻+Open+Source+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=023E8A&center=true&vCenter=true&width=600&lines=⚡+GitHub+Stats+Dashboard;🚀+Coding+Activity+Tracker;💻+Open+Source+Developer" />
 </p>
 
 ---
