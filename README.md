@@ -3,7 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=023E8A&center=true&vCenter=true&width=800&lines=ROOT@AMAN-AGRAHARI:~$+BOOT;INITIALIZING+DEVELOPER+PROFILE...;WEB+DEVELOPER;SOFTWARE+ENGINEER;OPEN+SOURCE+ENTHUSIAST"/>
 </p>
+
 ---
+
 ### 📂 /home/aman_agrahari/profile
 
 ```javascript
