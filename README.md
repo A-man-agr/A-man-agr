@@ -89,7 +89,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/A-man-agr/A-man-agr/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
