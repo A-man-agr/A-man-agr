@@ -71,7 +71,7 @@ const developer = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-man-agr&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=A-man-agr&theme=transparent&hide_border=true&background=180,0D1117,1A1B27&ring=00F7FF&fire=FF6EC7&currStreakLabel=00F7FF&sideLabels=FFFFFF&sideNums=00F7FF&dates=BBBBBB&stroke=00F7FF&cache_seconds=600" height="180"/>
 </p>
 
 ---
